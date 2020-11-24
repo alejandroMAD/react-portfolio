@@ -1,0 +1,5 @@
+{
+  "python.dataScience.jupyterServerURI": "local",
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "none"
+}
